@@ -25,7 +25,7 @@
      
      
      
-<div align = "center">![HDY9's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDY9&show_icons=true&theme=tokyonight)</div>
+![HDY9's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDY9&show_icons=true&theme=tokyonight)
   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
