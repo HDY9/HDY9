@@ -23,7 +23,7 @@
 <div align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></div>
      
 <br/>
-<div align="center"><h3> ⭐ My stats </h3></div>
+
      
 <div align="center"> 
   
