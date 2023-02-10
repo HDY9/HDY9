@@ -12,10 +12,12 @@
   
   
 ---
+
 <div align = "center"><h3>데이터 분석을 공부하는 황도연, 이라고 합니다.</h3></div>
 <div align = "center"> <h3>성장과 성취를 지향하는 사람으로서 매사에 열심히 공부해 나가고 있습니다.</h3></div>
----
 
+---
+  
   
 <div align = "center"><h3>💻 Tech stack</h3></div>
 <div align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></div>
