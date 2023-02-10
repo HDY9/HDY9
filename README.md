@@ -22,13 +22,14 @@
 <div align = "center"><h3>💻 Tech stack</h3></div>
 <div align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></div>
      
-<div align="center"> ⭐ My stats </div>
+<br/>
+<div align="center"><h3> ⭐ My stats </h3></div>
      
 <div align="center"> 
   
 ![HDY9's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDY9&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDY9&langs_count=8)](https://github.com/HDY9/github-readme-stats)
 
 </div>
-  
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
