@@ -26,7 +26,11 @@
 ***
 
      
-<div align="center"> ![HDY9's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDY9&show_icons=true&theme=tokyonight) </div>
+<div align="center"> 
+  
+![HDY9's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDY9&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDY9&langs_count=8)](https://github.com/HDY9/github-readme-stats)
+
+</div>
   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
