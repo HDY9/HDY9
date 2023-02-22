@@ -2,7 +2,7 @@
   
   
 <div align = "center"> <h3>📓 Portfolio</h3> </div>
-<div align = "center"><a href="https://github.com/HDY9?tab=repositories"><img src="https://img.shields.io/badge/Follow&Fork-181717?style=flat&logo=GitHub&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <a href="https://drive.google.com/drive/folders/1jCxIfQ9-u6naxF36o6T-PR9IdXAL_vi2?usp=share_link"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=Google Drive&logoColor=black"/></a></div>
+<div align = "center"><a href="https://github.com/HDY9?tab=repositories"><img src="https://img.shields.io/badge/Follow&Fork-181717?style=flat&logo=GitHub&logoColor=white"/></a> <a href="https://frequent-tray-a59.notion.site/DoYeon-s-Story-a223f8add60e45d5bcfd3bbf6d3ccea6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> <a href="https://drive.google.com/drive/folders/1jCxIfQ9-u6naxF36o6T-PR9IdXAL_vi2?usp=share_link"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=Google Drive&logoColor=black"/></a></div>
               
   
   
