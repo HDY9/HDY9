@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Have%20a%20good%20time&desc=DoYeon's%20GitHub%20Profile&fontSize=65&descSize=20&descAlign=65&descAlignY=63)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&desc=DoYeon's%20GitHub%20Profile&fontSize=65&descSize=20&descAlign=65&descAlignY=63)
   
   
 <div align = "center"> <h3>📓 Portfolio</h3> </div>
